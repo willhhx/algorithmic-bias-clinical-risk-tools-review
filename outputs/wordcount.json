@@ -1,0 +1,5 @@
+{
+ "words_main_text_incl_abstract_excl_tables_figures_refs": 2810,
+ "words_abstract": 285,
+ "key_takeaway": "Key takeaway: Clinical risk tools can work worse for some groups through three repeated routes: a stand-in outcome that measures access to care, a race variable in the equation, and a device or dataset built on non-diverse data. Removing race helped in some cases (the birth calculator kept its accuracy) but only shifted the error in others (kidney function), so fixes need to be audited against real patient outcomes, which few studies have done."
+}

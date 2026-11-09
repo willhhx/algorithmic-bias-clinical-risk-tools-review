@@ -1,0 +1,15 @@
+key,value
+ob_ratio_after_vs_before,2.63
+ob_pp_gain,28.8
+sj_mich_ratio,3.25
+sj_multi_ratio,2.74
+sj_auc_gap,0.05
+wong_ratio,1.39
+wong_pp_gap,1.9
+wong_mort_diff_pp,6.1
+fawzy_ratio,1.66
+fawzy_pp_gap,11.3
+fawzy_hazard_reduction_pct,29.0
+egfr_gap_current,3.2
+egfr_gap_new,-7.5
+egfr_abs_gap_new,7.5

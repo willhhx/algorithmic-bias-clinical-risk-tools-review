@@ -1,0 +1,54 @@
+key,value,unit,source,doi_or_url,where_found
+ob_pct_before,17.7,percent,Obermeyer et al. 2019,10.1126/science.aax2342,abstract (Black patients receiving extra help at current threshold)
+ob_pct_after,46.5,percent,Obermeyer et al. 2019,10.1126/science.aax2342,abstract (after remedying the disparity)
+inker_val_studies,12,count,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_val_n,4050,participants,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_val_black_pct,14.3,percent,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_cur_black,3.7,mL/min/1.73m2 median overestimate,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_cur_black_lo,1.8,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_cur_black_hi,5.4,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_cur_nonblack,0.5,mL/min/1.73m2 median overestimate,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_cur_nonblack_lo,0.0,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_cur_nonblack_hi,0.9,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_norace_adj_black,7.1,mL/min/1.73m2 median underestimate,Inker et al. 2021,10.1056/NEJMoa2102953,abstract (current equation with race term simply dropped)
+inker_new_black,3.6,mL/min/1.73m2 median underestimate,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_new_black_lo,1.8,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_new_black_hi,5.5,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_new_nonblack,3.9,mL/min/1.73m2 median overestimate,Inker et al. 2021,10.1056/NEJMoa2102953,abstract
+inker_new_nonblack_lo,3.4,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_new_nonblack_hi,4.4,mL/min/1.73m2,Inker et al. 2021,10.1056/NEJMoa2102953,abstract 95% CI
+inker_within30,85,percent minimum,Inker et al. 2021,10.1056/NEJMoa2102953,abstract (85% or more of eGFRs within 30% of measured GFR for all equations)
+sj_mich_black,11.7,percent,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text (88 of 749)
+sj_mich_white,3.6,percent,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text (99 of 2778)
+sj_multi_black,17.0,percent,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text (160 of 939)
+sj_multi_white,6.2,percent,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text (546 of 8795)
+sj_auc_black,0.84,AUC,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text
+sj_auc_white,0.89,AUC,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text
+sj_pairs_mich,10789,paired measures,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text
+sj_pairs_multi,37308,paired measures,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text
+sj_hospitals,178,hospitals,Sjoding et al. 2020,10.1056/NEJMc2029240,PMC7808260 full text (ICU patients 2014-2015)
+wong_n,87971,encounters,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_hidden_all,5.5,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_hidden_black,6.8,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_hidden_white,4.9,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_hidden_hisp,6.0,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_hidden_asian,4.8,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+wong_mort_black_hidden,21.1,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract (Black patients with hidden hypoxemia)
+wong_mort_black_nohidden,15.0,percent,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract (Black patients without)
+wong_icus,382,ICUs,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
+fawzy_patients,7126,patients,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+fawzy_occ_black,28.5,percent,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+fawzy_occ_white,17.2,percent,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+fawzy_hr_black,0.71,hazard ratio,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract (recognition of treatment eligibility vs White)
+fawzy_hr_lo,0.63,hazard ratio,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract 95% CI
+fawzy_hr_hi,0.80,hazard ratio,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract 95% CI
+fawzy_delay_h,1.0,hours median extra delay,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+fawzy_never_n,451,patients,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+fawzy_never_black_pct,54.8,percent,Fawzy et al. 2022,10.1001/jamainternmed.2022.1906,abstract
+gr_n,11687,individuals,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,abstract
+gr_vbac_pct,74,percent,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,abstract
+gr_auc_new,0.75,AUC,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,abstract
+gr_auc_old,0.75,AUC,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,abstract (previous model with race/ethnicity)
+gr_black_share,36.3,percent,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,PMC8611105 full text
+gr_registry_years,1999-2002,years,Grobman et al. 2021,10.1016/j.ajog.2021.05.021,PMC8611105 full text
+wong_hospitals,215,hospitals,Wong et al. 2021,10.1001/jamanetworkopen.2021.31674,abstract
